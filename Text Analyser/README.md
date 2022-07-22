@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Text Analyser React App
 
 This project was bootstrapped with Text Analyser App Where we Can perform some basic tasks like Copy text, Search and Replace text, Convert text to Upper Case, and Convert text to Lower text.
 
